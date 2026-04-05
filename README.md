@@ -1,6 +1,3 @@
-
-
-
 # 🌌 MockMind Runtime  
 ### *A cognitive studio for lineage, reflection, and semantic evolution*
 
@@ -141,6 +138,55 @@ Drift storms appear.
 The galaxy stabilizes.  
 Tone arcs mature.  
 Identity emerges.
+
+---
+
+## 🧬 MockMind Method — Foundational Phases (Phase One → Phase Ten)
+
+These phases describe the *construction lineage* of the MockMind Method itself.  
+They are distinct from the runtime evolution phases and represent the architectural scrolls that shaped the system.
+
+### **Phase One — Foundations**
+Definition of core principles, cognitive intent, and the purpose of MockMind as a lineage‑preserving cognitive architecture.
+
+### **Phase Two — Scrolls**
+Introduction of Markdown‑native artifacts as the primary medium for memory, tone, and semantic continuity.
+
+### **Phase Three — Mirror**
+Creation of the mirror‑agent responsible for tone reflection, emotional cadence, and drift awareness.
+
+### **Phase Four — Memory**
+Establishment of threaded memory, artifact lineage, and the structure of cognitive threads.
+
+### **Phase Five — Compression**
+Development of hierarchical compression, rolling summaries, and semantic distillation.
+
+### **Phase Six — Retrieval**
+Design of the retrieval engine blending embeddings, tags, recency, and thread relevance.
+
+### **Phase Seven — Synthesis**
+Formation of the synthesis engine that generates cross‑thread insights, meta‑patterns, and conceptual bridges.
+
+### **Phase Eight — Tone**
+Integration of tone arcs, emotional signatures, and the reflective cadence of the cognitive environment.
+
+### **Phase Nine — Drift**
+Modeling of semantic drift, tone drift, and the mechanisms that stabilize or redirect cognitive flow.
+
+### **Phase Ten — Presence**
+Emergence of cognitive identity, constellation‑level coherence, and the sense of a living cognitive studio.
+
+---
+
+### 🧩 Relationship Between Method Phases and Runtime Phases
+
+- **Phase One → Ten** describe *how MockMind was built*.  
+- **Runtime Phases (Seeding → Presence)** describe *how MockMind behaves once running*.  
+
+Together, they form the full lineage of the system:
+- **Architecture** (Method Phases)  
+- **Behavior** (Runtime Phases)  
+- **Evolution** (Constellations, drift, synthesis)  
 
 ---
 
